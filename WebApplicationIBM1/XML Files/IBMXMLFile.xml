@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+	<Ad>
+		<ImageUrl>~/Images/flower.png</ImageUrl>
+		<NavigateUrl>http://www.1800flowers.com</NavigateUrl>
+		<AlternateText>Order flowers, roses, gifts and more</AlternateText>
+	</Ad>
+	<Ad>
+		<ImageUrl>~/Images/flower2.png</ImageUrl>
+		<NavigateUrl>http://www.1800flowers.com</NavigateUrl>
+		<AlternateText>Order flowers, roses, gifts and more</AlternateText>
+	</Ad>
+</Advertisements>
